@@ -13,7 +13,8 @@
           "System.Drawing.Common": "6.0.0",
           "chromiumembeddedframework.runtime.win-arm64": "103.0.9",
           "chromiumembeddedframework.runtime.win-x64": "103.0.9",
-          "chromiumembeddedframework.runtime.win-x86": "103.0.9"
+          "chromiumembeddedframework.runtime.win-x86": "103.0.9",
+          "gong-wpf-dragdrop": "3.1.1"
         },
         "runtime": {
           "Auto Acces Play.dll": {}
@@ -390,6 +391,14 @@
           }
         }
       },
+      "gong-wpf-dragdrop/3.1.1": {
+        "runtime": {
+          "lib/net6.0-windows7.0/GongSolutions.WPF.DragDrop.dll": {
+            "assemblyVersion": "3.0.0.0",
+            "fileVersion": "3.1.1.3"
+          }
+        }
+      },
       "Microsoft.Win32.SystemEvents/6.0.0": {},
       "System.Drawing.Common/6.0.0": {
         "dependencies": {
@@ -450,6 +459,13 @@
       "sha512": "sha512-ugpjhGl9IyenFf/WkjjbbaPgEuVgoyq5yT/tDdukqHsg56cYrxdxKn7xMF5lRl1y+JKT1wA7mJGi93oKePuU0w==",
       "path": "chromiumembeddedframework.runtime.win-x86/103.0.9",
       "hashPath": "chromiumembeddedframework.runtime.win-x86.103.0.9.nupkg.sha512"
+    },
+    "gong-wpf-dragdrop/3.1.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-giqs0jox1rVk7ZU2TQ8LbNOE5y4b7T5QR+Nlog9ULV56C/wkULnr4m0MzXHwUJkgoCaP2ytW629TEQhk0qOSrA==",
+      "path": "gong-wpf-dragdrop/3.1.1",
+      "hashPath": "gong-wpf-dragdrop.3.1.1.nupkg.sha512"
     },
     "Microsoft.Win32.SystemEvents/6.0.0": {
       "type": "package",

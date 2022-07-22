@@ -3,4 +3,4 @@
 ### Information
 this program will help you quickly and conveniently work with applications
 
-![Rack](Resourses/mainImage.png "Resourses/mainImage.png")
+![Rack](Resourses/mainImage.png "Resourses/main.png")

@@ -10,6 +10,7 @@
         "dependencies": {
           "CefSharp.WinForms.NETCore": "103.0.90",
           "CustomMessageBox": "1.0.0",
+          "FluentWPF": "0.10.2",
           "System.Drawing.Common": "6.0.0",
           "chromiumembeddedframework.runtime.win-arm64": "103.0.9",
           "chromiumembeddedframework.runtime.win-x64": "103.0.9",
@@ -391,6 +392,14 @@
           }
         }
       },
+      "FluentWPF/0.10.2": {
+        "runtime": {
+          "lib/netcoreapp3.0/FluentWPF.dll": {
+            "assemblyVersion": "0.10.2.0",
+            "fileVersion": "0.10.2.0"
+          }
+        }
+      },
       "gong-wpf-dragdrop/3.1.1": {
         "runtime": {
           "lib/net6.0-windows7.0/GongSolutions.WPF.DragDrop.dll": {
@@ -459,6 +468,13 @@
       "sha512": "sha512-ugpjhGl9IyenFf/WkjjbbaPgEuVgoyq5yT/tDdukqHsg56cYrxdxKn7xMF5lRl1y+JKT1wA7mJGi93oKePuU0w==",
       "path": "chromiumembeddedframework.runtime.win-x86/103.0.9",
       "hashPath": "chromiumembeddedframework.runtime.win-x86.103.0.9.nupkg.sha512"
+    },
+    "FluentWPF/0.10.2": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-6bDzdj08dRW4Ynm4GycC2E2MlKFlnH9FPJKRlrIC+a3h+V6a6W7bRiMraviqIZd21JiN6+YggRb76qu/0Zdd0w==",
+      "path": "fluentwpf/0.10.2",
+      "hashPath": "fluentwpf.0.10.2.nupkg.sha512"
     },
     "gong-wpf-dragdrop/3.1.1": {
       "type": "package",
